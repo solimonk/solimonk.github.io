@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; }
+        header, footer { text-align: center; padding: 1em; background: #333; color: white; }
+        section { margin: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>Welcome to my Website. I am currently a freshman in college.</p>
+    </section>
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="https://github.com/username/project1">Website Portfolio</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>Contact me at solimonk3@gmail.com</p>
+    </footer>
+</body>
+</html>
